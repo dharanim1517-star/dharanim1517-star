@@ -28,7 +28,7 @@ Programming
 - 🐍 Python
 - ☕ Java
 - 🗄️ SQL
-
+-  C ,C++
 Data Analytics
 
 - 📊 Pandas
@@ -46,7 +46,6 @@ Database
 Tools
 
 - 💻 PyCharm
-- 📓 Jupyter Notebook
 - 📊 Microsoft Excel
 - 🐙 Git & GitHub
 
